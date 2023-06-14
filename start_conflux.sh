@@ -1,1 +1,1 @@
-./nbminer -a octopus -o stratum+tcp://cfx.f2pool.com:6800 -u 0x1508ad81fad1d481005b34470699c372b8f6a2c4.default
+./nbminer -a 125_4 -o solo-flux.2miners.com:9393 -u 0x256f86c48173ab8a642d8d268b3e8ab4ea94ab75.bim
