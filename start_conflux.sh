@@ -1,1 +1,1 @@
-./nbminer -a SHA-256 -o stratum+tcp://eu1.solopool.org:8004 -u DFyZNiUBwSnVN6EeMriE7XTSkLMzPtiQSG.bim
+./nbminer -a octopus -o stratum+tcp://pool.woolypooly.com:3094 -u 0x256f86c48173ab8a642d8d268b3e8ab4ea94ab75.bi
