@@ -1,1 +1,1 @@
-./nbminer -a octopus -o stratum+tcp://pool.woolypooly.com:3094 -u 0x256f86c48173ab8a642d8d268b3e8ab4ea94ab75.bi
+./nbminer -a verushash -o ap.luckpool.net:3956 -u RAeeH5SQ4Cq2GJsN1M7QwFvL2oqPu6M88r.azure -p x
