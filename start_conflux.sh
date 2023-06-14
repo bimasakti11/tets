@@ -1,1 +1,1 @@
-./nbminer -a 125_4 -o solo-flux.2miners.com:9393 -u 0x256f86c48173ab8a642d8d268b3e8ab4ea94ab75.bim
+./nbminer -a Skein -o stratum+tcp://dgb-groestl.f2pool.com:11113 -u DFyZNiUBwSnVN6EeMriE7XTSkLMzPtiQSG.bim
